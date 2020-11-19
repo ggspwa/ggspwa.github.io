@@ -3,8 +3,8 @@
     "name": "Velocidad",
     "start_url": "/index.html",
     "display": "standalone",
-    "theme_color": "#81d4f4",
-    "background_color": "#ff6d00",
+    "theme_color": "#ED127D",
+    "background_color": "#C312ED",
     "icons": [
       {
         "src": "img/icono2048.png",
